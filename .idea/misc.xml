@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Lam Viec/LUBUTEAM/Super Cleaner/super-clean-2-color2/app/src/main/res/layout/acitivty_result.xml" value="0.327445652173913" />
+        <entry key="..\:/Lam Viec/LUBUTEAM/Super Cleaner/super-clean-2-color2/app/src/main/res/layout/activiti_app_uninstall.xml" value="0.327445652173913" />
+        <entry key="..\:/Lam Viec/LUBUTEAM/Super Cleaner/super-clean-2-color2/app/src/main/res/layout/activity_lock_create_pwd.xml" value="0.327445652173913" />
+        <entry key="..\:/Lam Viec/LUBUTEAM/Super Cleaner/super-clean-2-color2/app/src/main/res/layout/activity_lock_main.xml" value="0.327445652173913" />
+        <entry key="..\:/Lam Viec/LUBUTEAM/Super Cleaner/super-clean-2-color2/app/src/main/res/layout/activity_lock_splash.xml" value="0.327445652173913" />
+        <entry key="..\:/Lam Viec/LUBUTEAM/Super Cleaner/super-clean-2-color2/app/src/main/res/layout/activity_settings.xml" value="0.327445652173913" />
+        <entry key="..\:/Lam Viec/LUBUTEAM/Super Cleaner/super-clean-2-color2/app/src/main/res/layout/dialog_lock_select_time.xml" value="0.327445652173913" />
+        <entry key="..\:/Lam Viec/LUBUTEAM/Super Cleaner/super-clean-2-color2/app/src/main/res/layout/fragment_home_new.xml" value="0.25" />
+        <entry key="..\:/Lam Viec/LUBUTEAM/Super Cleaner/super-clean-2-color2/app/src/main/res/layout/fragment_list_app_dangerous.xml" value="0.327445652173913" />
+        <entry key="..\:/Lam Viec/LUBUTEAM/Super Cleaner/super-clean-2-color2/app/src/main/res/layout/fragment_persional_new.xml" value="0.327445652173913" />
+        <entry key="..\:/Lam Viec/LUBUTEAM/Super Cleaner/super-clean-2-color2/app/src/main/res/layout/fragment_tool_new.xml" value="0.327445652173913" />
+        <entry key="..\:/Lam Viec/LUBUTEAM/Super Cleaner/super-clean-2-color2/app/src/main/res/layout/item_header_app_manager.xml" value="0.327445652173913" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
